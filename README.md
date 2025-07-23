@@ -10,7 +10,7 @@ A powerful, multilingual PDF document chatbot that allows users to upload docume
 
 ### 🎬 Live Application Demo
 <div align="center">
-  <img src="./assets/demo.gif" alt="PDF Chatbot Demo" width="800"/>
+  <img src="https://github.com/AsliCY/pdf-chatbot-gemini/raw/main/assets/demo.gif" alt="PDF Chatbot Demo" width="800"/>
   <br/>
   <em>🔥 Watch the PDF Chatbot in action with multilingual support!</em>
 </div>
