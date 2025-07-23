@@ -10,11 +10,9 @@ A powerful, multilingual PDF document chatbot that allows users to upload docume
 
 ### 🎬 Live Application Demo
 <div align="center">
-
-![PDF Chatbot Demo](https://i.imgur.com/0GrL5QM.gif)
-
-*🔥 Watch the PDF Chatbot in action with multilingual support!*
-
+  <img src="./assets/demo.gif" alt="PDF Chatbot Demo" width="800"/>
+  <br/>
+  <em>🔥 Watch the PDF Chatbot in action with multilingual support!</em>
 </div>
 
 > **✨ Key Features Shown:**
